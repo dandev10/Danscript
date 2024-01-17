@@ -3,7 +3,7 @@
 *1.* when you code in danscript you are talking right to your memory.
 when you use danscript you are using bytes(8bits).
 -----------------------
-*2.* when setting in binary in to a byte remeber to use + = 1/- = 0.  
+*2.* when setting in binary in to a byte remeber to use `+` for  1, and `-` for 0.  
 to code in a byte write `[ ]` and inside those brackets write binary. 
 you should be able to create any but only one ASCII character.
 ---------------------------
